@@ -2,17 +2,11 @@
     font-family: 'MrsBeasleyRegular';
     font-weight: bold;
     font-style: normal;
-    color: #000000;
-}
-
-h1 {
-    text-align: center;
 }
 
 body {
     width: 90%;
     margin: 0 auto;
-    background-image: url("good-weather.jpg");
 }
 
 #content {
@@ -44,7 +38,7 @@ li {
 
 #nav,
 #footer {
-    background-color: #FFF0F5;
+    background-color: #efefef;
     padding: 0.5em 0;
 }
 
@@ -52,30 +46,13 @@ li {
 .article {
     height: 10em;
     margin-bottom: 1em;
-    background-color: #FFF0F5;
-}
-
-.column1 {
-    background-color: #FFF0F5;
-}
-
-.column2 {
-    background-color: #FFF0F5;
-}
-
-.column3 {
-    background-color: #FFF0F5;
+    background-color: #efefef;
 }
 
 #feature {
-    background-color: #FFF0F5;
-    background-image: url("");
+    background-image: url("sunny-day.jpg");
     background-size: contain;
     background-position: right;
     background-repeat: no-repeat;
-}
-
-p {
-    text-align: left;
 }
 		

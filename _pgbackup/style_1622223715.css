@@ -44,7 +44,7 @@ li {
 
 #nav,
 #footer {
-    background-color: #FFF0F5;
+    background-color: #FFC0CB;
     padding: 0.5em 0;
 }
 
@@ -52,30 +52,28 @@ li {
 .article {
     height: 10em;
     margin-bottom: 1em;
-    background-color: #FFF0F5;
+    background-color: #FFC0CB;
 }
 
 .column1 {
-    background-color: #FFF0F5;
+    background-color: #FFC0CB;
 }
 
 .column2 {
-    background-color: #FFF0F5;
+    background-color: #FFC0CB;
 }
 
 .column3 {
-    background-color: #FFF0F5;
+    background-color: #FFC0CB;
 }
 
 #feature {
-    background-color: #FFF0F5;
+    background-color: #FFC0CB;
     background-image: url("");
     background-size: contain;
     background-position: right;
     background-repeat: no-repeat;
 }
 
-p {
-    text-align: left;
-}
+
 		
