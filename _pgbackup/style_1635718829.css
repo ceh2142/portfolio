@@ -1,12 +1,17 @@
 * {
-    font-family: Arial, Verdana, sans-serif;
-    color: #665544;
+    font-family: 'ArchitectsDaughterRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
     text-align: center;
 }
 
 body {
     width: 90%;
     margin: 0 auto;
+    background-image: url("sky_background.jfif");
 }
 
 #content {
@@ -38,7 +43,7 @@ li {
 
 #nav,
 #footer {
-    background-color: #efefef;
+    background-color: transparent;
     padding: 0.5em 0;
 }
 
@@ -46,14 +51,31 @@ li {
 .article {
     height: 10em;
     margin-bottom: 1em;
-    background-color: #efefef;
+    background-color: transparent;
+}
+
+.column1 {
+    background-color: transparent;
+}
+
+.column2 {
+    background-color: transparent;
+}
+
+.column3 {
+    background-color: transparent;
 }
 
 #feature {
-    background-color: #8CC63E;
-    background-image: url("...");
+    background-color: transparent;
+    background-image: url("");
     background-size: contain;
     background-position: right;
     background-repeat: no-repeat;
 }
+
+p {
+    text-align: left;
+}
+
 		
